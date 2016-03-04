@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'questa_sansregular';
+    src: url('fonts/2-Questa_Sans_Regular-webfont.eot');
+    src: url('fonts/2-Questa_Sans_Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/2-Questa_Sans_Regular-webfont.woff2') format('woff2'),
+         url('fonts/2-Questa_Sans_Regular-webfont.woff') format('woff'),
+         url('fonts/2-Questa_Sans_Regular-webfont.ttf') format('truetype'),
+         url('fonts/2-Questa_Sans_Regular-webfont.svg#questa_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-family: 'questamedium';
+    src: url('fonts/3-Questa_Medium-webfont.eot');
+    src: url('fonts/3-Questa_Medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/3-Questa_Medium-webfont.woff2') format('woff2'),
+         url('fonts/3-Questa_Medium-webfont.woff') format('woff'),
+         url('fonts/3-Questa_Medium-webfont.ttf') format('truetype'),
+         url('fonts/3-Questa_Medium-webfont.svg#questamedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+  font-family: 'questa_sansregular';
+  font-size: 16px;
+  color: #222222;
+  line-height: 2;
+}
+
+h1 {
+  font-family: 'questamedium';
+  font-size: 30px;
+}
+
+h2 {
+  font-family: 'questamedium';
+  font-size: 20px;
+}
