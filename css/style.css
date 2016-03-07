@@ -19,19 +19,28 @@
     font-style: normal;
 }
 
+html,body {
+  height: 100%;
+}
+
 body {
-  font-family: 'questa_sansregular';
-  font-size: 16px;
+  font-family: 'questa_sansregular', 'Helvetica', 'Arial', sans-serif ;
+  font-size: 20px;
   color: #222222;
   line-height: 2;
 }
 
 h1 {
-  font-family: 'questamedium';
+  font-family: 'questamedium', 'Baskerville', serif;
   font-size: 30px;
 }
 
 h2 {
-  font-family: 'questamedium';
-  font-size: 20px;
+  font-family: 'questamedium', 'Baskerville', serif;
+  font-size: 28px;
+}
+
+a {
+  font-family: 'questamedium', 'Baskerville', serif;
+  text-decoration: none;
 }
