@@ -47,10 +47,30 @@ a {
 
 #top {
   height: 100%;
-  color: #ffffff;
-  background-color: #179FB5;
 }
 
 #top a {
   color: #ffffff;
+}
+
+#top .left {
+  background-color: #179FB5;
+  width: 50%;
+  height: 100%;
+  float: left;
+}
+
+#top .right {
+  background-color: #F99224;
+  width: 50%;
+  height: 100%;
+  float: left;
+}
+
+.investors {
+  background-color: #179FB5;
+}
+
+.startups {
+  background-color: #F99224;
 }
