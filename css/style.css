@@ -106,12 +106,9 @@ a {
   width: 100%;
 }
 
-
-
 #tandem {
   height: 95%;
 }
-
 
 .investors-image {
   height: 100%;
@@ -131,3 +128,10 @@ a {
     transform: translate(-50%,-50%);
     top: 50%;
 }
+
+  /* Main Investor/Startup Page Content*/
+
+.copy {
+    max-width: 800px;
+    margin: 0 auto 0 auto;
+  }
