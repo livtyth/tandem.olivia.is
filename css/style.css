@@ -51,6 +51,13 @@ h3 {
   font-size: 20px;
 }
 
+h4 {
+  font-family: 'questa_sansregular', 'Helvetica', 'Arial', sans-serif;
+  text-decoration: none;
+  font-size: 20px;
+  color: #ffffff;
+}
+
 a {
   font-family: 'questa_sansregular', 'Helvetica', 'Arial', sans-serif;
   text-decoration: none;
@@ -113,23 +120,25 @@ a {
   height: 95%;
 }
 
-.strapline {
+.strapline-blue {
   height: 10%;
-  background-color: #179FB5;
   padding: 20px 50px 0 50px;
+  background-color: #179FB5;
 }
 
-.strapline img {
+.strapline-orange {
+  height: 10%;
+  padding: 20px 50px 0 50px;
+  background-color: #F99224;
+}
+
+.strapline-blue img, .strapline-orange img {
   float: left;
   width: 140px;
 }
 
-.strapline h3 {
+.strapline-blue h4, .strapline-orange h4 {
   float: right;
-  font-family: 'questa_sansregular', 'Helvetica', 'Arial', sans-serif;
-  text-decoration: none;
-  font-size: 22px;
-  color: #FFFFFF;
 }
 
 .investors-image {
