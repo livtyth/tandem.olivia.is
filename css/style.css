@@ -116,7 +116,19 @@ a:visited {
   font-size: 22px;
 }
 
-.bottom {
+.button a:hover {
+  background-color: #ffffff;
+}
+
+.blue-text:hover {
+  color: #179FB5;
+}
+
+.orange-text:hover {
+  color:#F99224;
+}
+
+.funnel {
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -169,24 +181,46 @@ a:visited {
   /* Footer Content*/
 
 footer {
-  height: 60px;
+  /*height: 60px;*/
   padding: 0 50px 0 50px;
 }
 
 footer a {
-  padding: 0 10px 0 10px;
+  margin: 0 10px 0 10px;
 }
 
-.left {
+footer .blue {
+  background-color: #179FB5;
+  width: 50%;
+  height: 10px;
   float: left;
 }
 
-.right {
+footer .orange {
+  background-color: #F99224;
+  width: 50%;
+  height: 10px;
+  float: left;
+}
+
+
+footer .left {
+  height: 60px;
+  float: left;
+}
+
+footer .right {
+  height: 60px;
   float: right;
 }
 
-.icon {
+footer .icon {
   height: 20px;
+}
+
+footer .left a:hover {
+  border-bottom: 3px solid #222222;
+  padding-bottom: 2px;
 }
 
 /* Main Investor/Startup Page Content*/
