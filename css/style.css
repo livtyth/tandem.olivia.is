@@ -186,7 +186,7 @@ footer {
 }
 
 footer a {
-  margin: 0 10px 0 10px;
+  padding: 0 10px 0 10px;
 }
 
 footer .blue {
@@ -215,12 +215,17 @@ footer .right {
 }
 
 footer .icon {
+  margin-top: 20px;
   height: 20px;
 }
 
 footer .left a:hover {
-  border-bottom: 3px solid #222222;
-  padding-bottom: 2px;
+  border-bottom: 5px solid #179FB5;
+  padding-bottom: 16px;
+}
+
+footer .right img:hover {
+  content: url(../images/twitter-orange.svg);
 }
 
 /* Main Investor/Startup Page Content*/
