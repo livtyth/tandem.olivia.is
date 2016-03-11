@@ -73,6 +73,17 @@ a:visited {
   height: 100%;
 }
 
+.logo {
+  height: 10%;
+  padding: 20px 50px 0 50px;
+  background-color: #FFF8F0;
+}
+
+.logo img {
+  float: left;
+  width: 140px;
+}
+
 #top .blue {
   background-color: #179FB5;
   width: 50%;
@@ -180,11 +191,6 @@ a:visited {
 
   /* Footer Content*/
 
-footer {
-  /*height: 60px;*/
-  padding: 0 50px 0 50px;
-}
-
 footer a {
   padding: 0 10px 0 10px;
 }
@@ -207,11 +213,13 @@ footer .orange {
 footer .left {
   height: 60px;
   float: left;
+  padding-left: 50px;
 }
 
 footer .right {
   height: 60px;
   float: right;
+  padding-right: 50px;
 }
 
 footer .icon {
@@ -220,6 +228,7 @@ footer .icon {
 }
 
 footer .left a:hover {
+  color: #179FB5;
   border-bottom: 5px solid #179FB5;
   padding-bottom: 16px;
 }
