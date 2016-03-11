@@ -47,7 +47,7 @@ h2 {
 
 h3 {
   font-family: 'questamedium', 'Baskerville', serif;
-  text-align: center;
+  /*text-align: center;*/
   font-size: 20px;
 }
 
@@ -189,6 +189,50 @@ a:visited {
     top: 50%;
 }
 
+/* Main Investors Content*/
+
+/* Main Investor/Startup Page Content*/
+
+#hero {
+    max-width: 800px;
+    margin: 100px auto 100px auto;
+    text-align: center;
+  }
+
+#approach {
+  background-color: #FFF8F0;
+  margin-bottom: 50px;
+}
+
+#key-content {
+  margin-bottom: 50px;
+}
+
+.row {
+  margin-bottom: 10px;
+}
+
+.information {
+  background-color: #FFF8F0;
+  padding: 50px;
+}
+
+.information p {
+  font-size: 22px;
+}
+
+.investors {
+  background-color: #179FB5;
+}
+
+.startups {
+  background-color: #F99224;
+}
+
+#cta {
+  margin-bottom: 50px;
+}
+
   /* Footer Content*/
 
 footer a {
@@ -235,16 +279,4 @@ footer .left a:hover {
 
 footer .right img:hover {
   content: url(../images/twitter-orange.svg);
-}
-
-/* Main Investor/Startup Page Content*/
-
-.copy {
-    max-width: 800px;
-    margin: 100px auto 100px auto;
-    text-align: center;
-  }
-
-.divider {
-  width: 50px;
 }
