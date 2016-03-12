@@ -202,14 +202,20 @@ a:visited {
 #approach {
   background-color: #FFF8F0;
   margin-bottom: 50px;
+  padding: 50px 0 50px 0;
+}  
+
+#approach h3 {
+  padding: 0 50px 0 50px;
+}
+
+#approach p {
+  font-size: 18px;
+  padding: 0 50px 0 50px;
 }
 
 #key-content {
   margin-bottom: 50px;
-}
-
-.row {
-  margin-bottom: 10px;
 }
 
 .information {
