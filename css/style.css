@@ -77,7 +77,7 @@ a:visited {
 .logo {
   height: 10%;
   padding: 20px 50px 0 50px;
-  background-color: #f2f2f2;
+  background-color: #FCF7F8;
 }
 
 .logo img {
@@ -201,7 +201,7 @@ a:visited {
   }
 
 #approach .row {
-  background-color: #f2f2f2;
+  background-color: #FCF7F8;
   margin-bottom: 50px;
   padding: 50px 0 50px 0;
 }
@@ -220,7 +220,7 @@ a:visited {
 }
 
 .information {
-  background-color: #f2f2f2;
+  background-color: #FCF7F8;
   padding: 50px;
 }
 
@@ -283,6 +283,12 @@ a:visited {
     width: 100%;
     background-color: #ffffff;
     border-top: 2px solid #ffffff;
+    opacity: 0;
+    transition: opacity 0.5s;
+  }
+
+  .fixed.fade-in {
+    opacity: 1;
   }
 
 footer a {
