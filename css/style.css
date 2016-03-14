@@ -77,7 +77,7 @@ a:visited {
 .logo {
   height: 10%;
   padding: 20px 50px 0 50px;
-  background-color: #FFF8F0;
+  background-color: #f2f2f2;
 }
 
 .logo img {
@@ -200,8 +200,8 @@ a:visited {
     text-align: center;
   }
 
-#approach {
-  background-color: #FFF8F0;
+#approach .row {
+  background-color: #f2f2f2;
   margin-bottom: 50px;
   padding: 50px 0 50px 0;
 }
@@ -220,7 +220,7 @@ a:visited {
 }
 
 .information {
-  background-color: #FFF8F0;
+  background-color: #f2f2f2;
   padding: 50px;
 }
 
@@ -230,10 +230,12 @@ a:visited {
 
 .investors {
   background-color: #179FB5;
+  border-bottom: 2px solid #ffffff;
 }
 
 .startups {
   background-color: #F99224;
+  border-bottom: 2px solid #ffffff;
 }
 
 #cta {
@@ -274,6 +276,15 @@ a:visited {
 
   /* Footer Content*/
 
+.fixed {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    background-color: #ffffff;
+    border-top: 2px solid #ffffff;
+  }
+
 footer a {
   padding: 0 10px 0 10px;
 }
@@ -291,7 +302,6 @@ footer .orange {
   height: 10px;
   float: left;
 }
-
 
 footer .left {
   height: 60px;
@@ -313,7 +323,7 @@ footer .icon {
 footer .left a:hover {
   color: #179FB5;
   border-bottom: 5px solid #179FB5;
-  padding-bottom: 16px;
+  padding-bottom: 19px;
 }
 
 footer .right img:hover {
