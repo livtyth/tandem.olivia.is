@@ -96,7 +96,6 @@ a:visited {
 .logo {
   height: 10%;
   padding: 20px 50px 0 50px;
-  background-color: #FCF7F8;
 }
 
 .logo img {
@@ -290,8 +289,22 @@ a:visited {
   margin-bottom: 200px;
 }
 
+.social {
+  float: right;
+  padding-top: 100px;
+}
+
+.linkedin {
+  height: 20px;
+}
+
+.linkedin:hover {
+  content: url(../images/linkedin-orange.svg);
+}
+
 .twitter {
   height: 20px;
+  padding-left: 20px;
 }
 
 .twitter:hover {
