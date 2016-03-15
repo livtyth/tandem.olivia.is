@@ -7,3 +7,7 @@ $(document).on("scroll", function(){
     $("footer").removeClass("fade-in")
   }
 })
+
+// $(function() {
+//     $('.item').matchHeight(options);
+// });
