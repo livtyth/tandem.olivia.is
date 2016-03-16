@@ -95,7 +95,8 @@ a:visited {
 
 .logo {
   height: 10%;
-  padding: 20px 50px 0 50px;
+  padding: 20px 50px 20px 50px;
+  background-color: #FCF7F8;
 }
 
 .logo img {
@@ -309,10 +310,6 @@ a:visited {
   display: block;
   height: 600px;
 }
-/*
-.spacer {
-  margin-bottom: 50px;
-}*/
 
 #team img {
   max-width: 100%;
@@ -377,7 +374,27 @@ a:visited {
   content: url(../images/twitter-orange.svg);
 }
 
-  /* Footer Content*/
+/*End About Content*/
+
+
+/* Services Content*/
+
+#services .row {
+  padding: 50px 0 50px 0;
+}
+
+#services h4 {
+  padding: 40px 50px 10px 50px;
+}
+
+#services li {
+  font-size: 18px;
+  padding: 0 50px 0 50px;
+}
+
+/* End Services Content */
+
+/* Footer Content*/
 
 .fixed {
     position: fixed;
