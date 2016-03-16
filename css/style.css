@@ -234,7 +234,13 @@ a:visited {
 }
 
 .nudge {
-  margin-top: 30px;
+  margin-top: 40px;
+}
+
+.border {
+  border-bottom: 2px solid #ffffff;
+  border-left: 1px solid #ffffff;
+  border-right: 1px solid #ffffff;
 }
 
 .shortform {
@@ -266,16 +272,6 @@ a:visited {
   border-bottom: 10px solid #F99224;
   margin-bottom: 50px;
 }
-
-/*.investors {
-  background-color: #179FB5;
-  border-bottom: 2px solid #ffffff;
-}
-
-.startups {
-  background-color: #F99224;
-  border-bottom: 2px solid #ffffff;
-}*/
 
 #cta {
   margin-bottom: 200px;
@@ -313,10 +309,44 @@ a:visited {
   display: block;
   height: 600px;
 }
+/*
+.spacer {
+  margin-bottom: 50px;
+}*/
 
 #team img {
-  margin-top: 50px;
   max-width: 100%;
+  overflow: hidden;
+}
+
+.profile-1 {
+  background-image: url(../images/profile-1.jpg);
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+}
+
+.profile-2 {
+  background-image: url(../images/profile-2.jpg);
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+}
+
+.profile-3 {
+  background-image: url(../images/profile-3.jpg);
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+}
+
+
+#team h3 {
+  padding-bottom: 50px;
+}
+
+.grid {
+  margin-top: -50px;
 }
 
 .profile {
@@ -325,7 +355,9 @@ a:visited {
 
 .social {
   float: right;
-  bottom: 0;
+  padding-top: 50px;
+  /*position: absolute;
+  bottom: 100px;*/
 }
 
 .linkedin {
