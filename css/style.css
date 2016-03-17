@@ -387,7 +387,7 @@ a:visited {
   padding: 40px 50px 10px 50px;
 }
 
-#services li {
+#services p {
   font-size: 18px;
   padding: 0 50px 0 50px;
 }
@@ -400,7 +400,7 @@ a:visited {
 
 .card {
   display: block;
-  height: 220px;
+  height: 235px;
   background-color: #FCF7F8;
   border: 2px solid #ffffff;
 }
