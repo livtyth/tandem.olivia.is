@@ -421,14 +421,32 @@ a:visited {
   background-color: #FCF7F8;
   text-align: center;
   border: 2px solid #ffffff;
+  padding: 50px 0 50px 0;
+  font-size: 18px;
 }
 
 .box img {
   width: 70px;
+  padding-bottom: 30px;
 }
 
-.box-big img {
-  width: 200px;
+.big img {
+  width: 120px;
+}
+
+.orange-hover:hover {
+  background-color: #F55D3E;
+  color: #ffffff;
+  /*content: url(../images/wiggle-white.svg);*/
+}
+
+.orange-hover:hover img, .blue-hover:hover img {
+  content: url(../images/wiggle-white.svg);
+}
+
+.blue-hover:hover {
+  background-color: #0638B8;
+  color: #ffffff;
 }
 
 /* End Contact Page Content */
