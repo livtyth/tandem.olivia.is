@@ -47,8 +47,8 @@ h2 {
 
 h3 {
   font-family: 'questamedium', 'Baskerville', serif;
-  font-size: 36px;
-  line-height: 1.2;
+  font-size: 26px;
+  line-height: 1.4;
   padding-bottom: 20px;
 }
 
@@ -249,12 +249,11 @@ a:visited {
 #approach .row {
   margin-bottom: 50px;
   padding: 50px 0 50px 0;
+  text-align: center;
 }
 
 #approach img {
   width: 70px;
-  display: block;
-  margin: 0 auto 0 auto;
   padding-top: 50px;
 }
 
