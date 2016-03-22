@@ -221,21 +221,21 @@ a:visited {
 
 #logo-bar .left-block img {
   padding: 20px 0 0 50px;
-  width: 120px;
+  width: 140px;
 }
 
 .left-block  {
   width: 50%;
   height: 100%;
   float: left;
-  border-bottom: 10px solid #179FB5;
+  border-top: 10px solid #179FB5;
 }
 
 .right-block {
   width: 50%;
   height: 100%;
   float: left;
-  border-bottom: 10px solid #F99224;
+  border-top: 10px solid #F99224;
 }
 /* End Skinny Header Formatting */
 
@@ -473,8 +473,34 @@ a:visited {
   background-color: #222222;
   color: #ffffff;
 }
-
 /* End Contact Page Content */
+
+/* Terms & Conditions Intro*/
+
+#terms {
+  margin: 50px 0 200px 0;
+}
+
+#terms .row {
+  padding: 40px 0 40px 0;
+  background-color: #FCF7F8;
+  border-bottom: 2px solid #ffffff;
+}
+
+#terms p {
+  font-size: 18px;
+}
+
+#terms h3 {
+  padding-bottom: 0;
+}
+
+#terms h4 {
+  padding-bottom: 20px;
+}
+
+
+/* End Terms & Conditions*/
 
 /* Footer Content*/
 
