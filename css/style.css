@@ -335,12 +335,22 @@ a:visited {
   background-color: #F99224;
   color: #FFFFFF;
 }
+
+#cta .grey-button a {
+  border: 3px solid #222222;
+  color: #222222;
+}
+
+#cta .grey-button a:hover {
+  background-color: #222222;
+  color: #FFFFFF;
+}
 /* End Investors/Startup page content*/
 
 /* About Page Content*/
 
 #team {
-  margin-bottom: 200px;
+  margin-bottom: 100px;
 }
 
 .height  {
@@ -390,8 +400,6 @@ a:visited {
 .social {
   float: right;
   padding-top: 50px;
-  /*position: absolute;
-  bottom: 100px;*/
 }
 
 .linkedin {
@@ -470,19 +478,14 @@ a:visited {
   width: 120px;
 }
 
-.orange-hover:hover {
-  background-color: #222222;
-  color: #ffffff;
-  /*content: url(../images/wiggle-white.svg);*/
-}
-
-.orange-hover:hover img, .blue-hover:hover img {
+.hover:hover img {
   content: url(../images/wiggle-white.svg);
 }
 
-.blue-hover:hover {
-  background-color: #222222;
+.hover:hover {
+  background-color: #293241;
   color: #ffffff;
+  transition: 0.3s;
 }
 /* End Contact Page Content */
 
@@ -565,12 +568,11 @@ footer .icon {
   height: 20px;
 }
 
-footer .left a:hover {
-  color: #179FB5;
-  border-bottom: 5px solid #179FB5;
+footer .left .active:hover {
+  color: #293241;
+  border-bottom: 5px solid #293241;
   padding-bottom: 19px;
 }
-
 footer .right img:hover {
-  content: url(../images/twitter-orange.svg);
+  content: url(../images/twitter-hover.svg);
 }
