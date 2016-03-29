@@ -31,7 +31,7 @@ body {
   font-family: 'questa_sansregular', 'Helvetica', 'Arial', sans-serif;
   font-size: 26px;
   color: #222222;
-  line-height: 1.8;
+  line-height: 2;
   letter-spacing: 0.05em;
 }
 
@@ -313,11 +313,16 @@ a:visited {
 
 .information {
   background-color: #FCF7F8;
-  padding: 50px;
+  padding: 100px;
+  text-align: center;
 }
 
 .information p {
   font-size: 22px;
+}
+
+.information h3 {
+  font-size: 32px;
 }
 
 .investors {
