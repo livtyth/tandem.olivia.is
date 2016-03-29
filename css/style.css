@@ -24,6 +24,7 @@
 
 html,body {
   height: 100%;
+  /*background-color: #179FB5;*/
 }
 
 body {
@@ -93,37 +94,34 @@ a:visited {
   margin: 50px 0 50px 0;
 }
 
-.startup-text {
-  position: relative;
-  background-color: #f55d3e;
-  padding: 50px;
-  height: 420px;
-  z-index: 10;
+.investors-i {
+  margin: 0;
 }
 
-.startup-bike {
-  position: relative;
+.blue-back {
+  background-color: #179FB5;
+  width: 100%;
+}
+
+.startups-intro {
   background-color: #F99224;
-  padding: 50px;
-  height: 420px;
-  z-index: 20;
-  vertical-align: center;
-  margin-top: -320px;
+  padding: 100px 0 100px 0;
 }
 
-.copy {
-  padding-left: 55%;
+.investors-intro {
+  background-color: #179FB5;
+  padding: 100px 0 100px 0;
+}
+
+.headline {
+  text-align: center;
   color: #ffffff;
+  margin-top: -180px;
 }
 
-.copy h3 {
-  line-height: 1;
-}
-
-.copy p {
+.headline p {
   font-size: 22px;
 }
-
 /* End New Header Formatting */
 
 /* Header formatting */
@@ -246,10 +244,11 @@ a:visited {
 
 .investors-image img, .startups-image img {
     position: absolute;
-    width: 60%;
+    width: 55%;
     transform: translate(-50%,-50%);
     top: 50%;
 }
+
 /* End Header Formatting */
 
 /* Skinny Header Formatting */
@@ -293,7 +292,8 @@ a:visited {
   width: 100%;
   height: 100%;
   float: left;
-  border-top: 10px solid #F99224;
+  border-top: 10px solid #179FBF;
+  background-color: #179FB5;
 }
 /* End Skinny Header Formatting */
 
