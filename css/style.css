@@ -91,32 +91,29 @@ a:visited {
 /* Start New Header Formatting */
 
 #intro {
-  margin: 50px 0 50px 0;
-}
-
-.investors-i {
-  margin: 0;
+  /*margin: 0 0 50px 0;*/
+  padding: 50px 0 100px 0;
 }
 
 .blue-back {
   background-color: #179FB5;
-  width: 100%;
+}
+
+.orange-back {
+  background-color: #F99224;
 }
 
 .startups-intro {
   background-color: #F99224;
-  padding: 100px 0 100px 0;
 }
 
 .investors-intro {
   background-color: #179FB5;
-  padding: 100px 0 100px 0;
 }
 
 .headline {
   text-align: center;
   color: #ffffff;
-  margin-top: -180px;
 }
 
 .headline p {
@@ -206,49 +203,6 @@ a:visited {
 #tandem {
   height: 95%;
 }
-
-.strapline-blue {
-  height: 10%;
-  padding: 20px 50px 0 50px;
-  background-color: #179FB5;
-}
-
-.strapline-orange {
-  height: 10%;
-  padding: 20px 50px 0 50px;
-  background-color: #F99224;
-}
-
-.strapline-blue img, .strapline-orange img {
-  float: left;
-  width: 140px;
-}
-
-.strapline-blue h4, .strapline-orange h4 {
-  float: right;
-  font-family: 'questa_sansregular', 'Helvetica', 'Arial', sans-serif;
-  font-size: 22px;
-}
-
-.investors-image {
-  height: 90%;
-  background-color: #179FB5;
-  text-align: center;
-}
-
-.startups-image {
-  height: 90%;
-  background-color: #F99224;
-  text-align: center;
-}
-
-.investors-image img, .startups-image img {
-    position: absolute;
-    width: 55%;
-    transform: translate(-50%,-50%);
-    top: 50%;
-}
-
 /* End Header Formatting */
 
 /* Skinny Header Formatting */
@@ -281,18 +235,24 @@ a:visited {
   width: 140px;
 }
 
+#logo-bar h3 {
+  float: right;
+  padding: 20px 50px 0 0;
+  color: #ffffff;
+  font-family: 'questa_sansregular', 'Helvetica', 'Arial', sans-serif;
+}
+
 .orange-bar  {
   width: 100%;
   height: 100%;
   float: left;
-  border-top: 10px solid #F99224;
+  background-color: #F99224;
 }
 
 .blue-bar  {
   width: 100%;
   height: 100%;
   float: left;
-  border-top: 10px solid #179FBF;
   background-color: #179FB5;
 }
 /* End Skinny Header Formatting */
