@@ -351,15 +351,20 @@ a:visited {
   padding-top: 100px;
   padding-bottom: 200px;
   text-align: center;
+  color: #ffffff;
 }
 
 #cta img {
   width: 140px;
-  padding-bottom: 50px;
+  padding-bottom: 25px;
 }
 
 #cta h3 {
   font-size: 32px;
+}
+
+.square-button {
+  margin-top: 50px;
 }
 
 .square-button a {
@@ -369,39 +374,6 @@ a:visited {
   font-size: 22px;
 }
 
-.square-button a:hover {
-  background-color: #ffffff;
-}
-/*
-#cta .blue-button a {
-  border: 3px solid #179FB5;
-  color: #179FB5;
-}
-
-#cta .blue-button a:hover {
-  background-color: #179FB5;
-  color: #FFFFFF;
-}
-
-#cta .orange-button a {
-  border: 3px solid #F99224;
-  color: #F99224;
-}
-
-#cta .orange-button a:hover {
-  background-color: #F99224;
-  color: #FFFFFF;
-}
-
-#cta .grey-button a {
-  border: 3px solid #222222;
-  color: #222222;
-}
-
-#cta .grey-button a:hover {
-  background-color: #222222;
-  color: #FFFFFF;
-}*/
 /* End Investors/Startup page content*/
 
 /* About Page Content*/
