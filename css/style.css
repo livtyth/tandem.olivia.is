@@ -31,7 +31,7 @@ body {
   font-family: 'questa_sansregular', 'Helvetica', 'Arial', sans-serif;
   font-size: 22px;
   color: #222222;
-  line-height: 2;
+  line-height: 1.8;
   letter-spacing: 0.05em;
 }
 
@@ -320,8 +320,12 @@ a:visited {
 
 .information {
   background-color: #FCF7F8;
-  padding: 100px;
+  padding: 50px;
   text-align: center;
+}
+
+#key-content .information {
+  padding: 100px;
 }
 
 .information p {
@@ -599,7 +603,6 @@ a:visited {
 
 footer a {
   padding: 0 10px 0 10px;
-  vertical-align: center;
 }
 
 footer .blue {
@@ -620,7 +623,6 @@ footer .left {
   height: 60px;
   float: left;
   padding-left: 50px;
-  padding-top: 6px;
 }
 
 footer .right {
