@@ -639,7 +639,7 @@ footer .icon {
 footer .left .active:hover {
   color: #293241;
   border-bottom: 5px solid #293241;
-  padding-bottom: 22px;
+  padding-bottom: 19px;
 }
 footer .right img:hover {
   content: url(../images/twitter-hover.svg);
