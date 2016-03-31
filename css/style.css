@@ -43,7 +43,7 @@ h1 {
 h2 {
   font-family: 'questa_sansregular', 'Helvetica', 'Arial', sans-serif;
   color: #ffffff;
-  font-size: 28px;
+  font-size: 32px;
 }
 
 h3 {
@@ -104,6 +104,10 @@ a:visited {
 
 .beige-back {
   background-color: #FCf7F8;
+}
+
+.neutral-back {
+  background-color: #ebd4cb;
 }
 
 .startups-intro {
@@ -167,7 +171,7 @@ a:visited {
 
 #top .overlay h1 {
   position: relative;
-  width: 60%;
+  width: 57%;
   margin: 0 auto 0 auto;
   padding-right: 9.5%;
 }
@@ -191,12 +195,17 @@ a:visited {
 
 .button a {
   color: #ffffff;
-  font-size: 28px;
+  font-size: 24px;
 }
 
 .button a:hover {
   padding-bottom: 5px;
-  border-bottom: 5px solid #ffffff;
+  border-bottom: 4px solid #ffffff;
+}
+
+.button img {
+  padding: 0 0 0 15px;
+  height: 16px;
 }
 
 .blue-text:hover {
