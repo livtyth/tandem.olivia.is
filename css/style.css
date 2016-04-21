@@ -381,7 +381,7 @@ a:visited {
 }
 
 #cta .contact-img {
-  width: 120px;
+  height: 100px;
   padding-bottom: 25px;
 }
 
@@ -395,7 +395,7 @@ a:visited {
 }
 
 .square-button {
-  margin-top: 40px;
+  margin-top: 60px;
 }
 
 .square-button a {
