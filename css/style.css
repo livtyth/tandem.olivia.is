@@ -585,22 +585,22 @@ a:visited {
 }
 
 .box img {
-  width: 70px;
-  padding-bottom: 30px;
-}
-
-.big img {
-  width: 120px;
-}
-
-.hover:hover img {
-  content: url(../images/wiggle-white.svg);
+  height: 100px;
+  padding-bottom: 10px;
 }
 
 .hover:hover {
   background-color: #ACC4D9;
   color: #ffffff;
   transition: 0.3s;
+}
+
+.email:hover img {
+  content: url(../images/email-white.svg);
+}
+
+.telephone:hover img {
+  content: url(../images/telephone-white.svg);
 }
 /* End Contact Page Content */
 
