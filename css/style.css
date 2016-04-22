@@ -683,6 +683,9 @@ footer .right img:hover {
   content: url(../images/twitter-hover.svg);
 }
 
+#top-mobile {
+  display: none;
+}
 
 /* Media Queries */
 
@@ -692,72 +695,59 @@ footer .right img:hover {
     display: none;
   }
 
-  #top .orange, #top .blue {
-    height: 500px;
-  }
-
-  #top .overlay h2 {
-    font-size: 24px;
-  }
-
-  #top .funnel {
-    position: static;
-    margin-top: 180px;
-  }
-
-  #top .funnel .button {
-    float: none;
-    width: 50%;
-    padding: 20px 0 20px 0;
-    margin: 0 auto 0 auto;
-  }
-
-  #top .funnel .button a:hover {
-    border-bottom: none;
-  }
-
-  #top .funnel .investors-button {
-    background-color: #179FB5;
-    margin-bottom: 50px;
-  }
-
-  #top .funnel .startups-button {
-    background-color: #F99224;
-  }
-
-  #top .funnel .button img {
+  #top {
     display: none;
   }
+
+  #top-mobile {
+    display: block;
+    height: 100%;
+  }
+
+  #top-mobile .top-half {
+    height: 50%;
+    background-color: red;
+  }
+
+  #top-mobile .blue {
+    background-color: #179FB5;
+    width: 50%;
+    height: 100%;
+    float: left;
+  }
+
+  #top-mobile .orange {
+    background-color: #F99224;
+    width: 50%;
+    height: 100%;
+    float: left;
+  }
+
+  #top-mobile .overlay {
+    position: absolute;
+    width: 100%;
+    height: 75%;
+    text-align: center;
+    transform: translate(0,-50%);
+    top: 50%;
+  }
+
+  #top-mobile .overlay h1 {
+    position: relative;
+    width: 57%;
+    margin: 0 auto 0 auto;
+    padding-right: 9.5%;
+  }
+
+  #top-mobile .bottom-half {
+    height: 50%;
+  }
+
 
 
 
 
 @media screen and (max-width: 380px) {
-
-  #top .orange, #top .blue {
-    height: 300px;
-  }
-
-  #top .overlay h1 {
-    width: 70%;
-  }
-
-  #top .overlay h2 {
-    font-size: 18px;
-  }
-
-  #top .funnel {
-    margin-top: 160px;
-  }
-
-  #top .funnel .button {
-    padding: 10px 0 10px 0;
-  }
-
-  #top .funnel .button a {
-    font-size: 18px;
-  }
-
 
 
 
