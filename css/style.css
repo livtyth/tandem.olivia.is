@@ -686,20 +686,29 @@ footer .right img:hover {
 
 /* Media Queries */
 
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 770px) {
+
+  footer {
+    display: none;
+  }
+
   #top .orange, #top .blue {
-    height: 50%;
+    height: 500px;
+  }
+
+  #top .overlay h2 {
+    font-size: 24px;
   }
 
   #top .funnel {
     position: static;
-    margin-top: 250px;
+    margin-top: 180px;
   }
 
   #top .funnel .button {
     float: none;
-    width: 60%;
-    padding: 30px 0 30px 0;
+    width: 50%;
+    padding: 20px 0 20px 0;
     margin: 0 auto 0 auto;
   }
 
@@ -716,11 +725,41 @@ footer .right img:hover {
     background-color: #F99224;
   }
 
+  #top .funnel .button img {
+    display: none;
+  }
+
 
 
 
 @media screen and (max-width: 380px) {
-  footer {
-    display: none;
+
+  #top .orange, #top .blue {
+    height: 300px;
   }
+
+  #top .overlay h1 {
+    width: 70%;
+  }
+
+  #top .overlay h2 {
+    font-size: 18px;
+  }
+
+  #top .funnel {
+    margin-top: 160px;
+  }
+
+  #top .funnel .button {
+    padding: 10px 0 10px 0;
+  }
+
+  #top .funnel .button a {
+    font-size: 18px;
+  }
+
+
+
+
+
 }
