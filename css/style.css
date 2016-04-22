@@ -739,17 +739,53 @@ footer .right img:hover {
     padding-right: 9.5%;
   }
 
-  #top-mobile .bottom-half {
-    height: 50%;
+  #top-mobile .overlay h2 {
+    font-size: 24px;
   }
 
+  #top-mobile .bottom-half {
+    height: 50%;
+    margin-top: 15%;
+  }
+
+  #top-mobile .button {
+    width: 60%;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    padding: 10px 0 10px 0;
+  }
+
+  #top-mobile .investors-button {
+    background-color: #179FB5;
+    margin-bottom: 20px;
+  }
+
+  #top-mobile .startups-button {
+    background-color: #F99224;
+  }
+}
 
 
+@media screen and (max-width: 400px) {
 
+  #top-mobile .overlay h1 {
+    width: 70%;
+  }
 
-@media screen and (max-width: 380px) {
+  #top-mobile .overlay h2 {
+    font-size: 18px;
+  }
 
+  #top-mobile .bottom-half {
+    margin-top: 10%;
+  }
 
+  #top-mobile .button {
+    width: 80%;
+  }
 
+  #top-mobile .button a {
+    font-size: 18px;
+  }
 
 }
