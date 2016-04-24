@@ -745,14 +745,17 @@ footer .right img:hover {
 
   #top-mobile .bottom-half {
     height: 50%;
-    margin-top: 15%;
+    /*margin-top: 15%;*/
+    margin-top: 20px;
+    /*background-color: #FCF7F8;*/
   }
 
   #top-mobile .button {
-    width: 60%;
+    /*width: 60%;*/
+    width: 100%;
     margin: 0 auto 0 auto;
     text-align: center;
-    padding: 10px 0 10px 0;
+    padding: 50px 0 50px 0;
   }
 
   #top-mobile .investors-button {
@@ -777,15 +780,27 @@ footer .right img:hover {
   }
 
   #top-mobile .bottom-half {
-    margin-top: 10%;
+    /*margin-top: 10%;*/
+    margin-top: 10px;
   }
 
   #top-mobile .button {
-    width: 80%;
+    /*width: 80%;*/
+    width: 100%;
+    padding: 30px 0 30px 0;
   }
 
   #top-mobile .button a {
     font-size: 18px;
   }
+
+  #top-mobile .button img {
+    height: 13px;
+  }
+
+  #top-mobile .investors-button {
+    margin-bottom: 10px;
+  }
+
 
 }
