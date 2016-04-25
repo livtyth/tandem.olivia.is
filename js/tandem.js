@@ -1,3 +1,5 @@
+// Fade desktop navigation in and out
+
 $(document).on("scroll", function(){
   var pixelsFromTop = $(document).scrollTop()
   console.log(pixelsFromTop)
@@ -16,4 +18,11 @@ $(document).on("scroll", function(){
   } else {
     $("logo-bar").removeClass("fade-out")
   }
+})
+
+
+// Trigger mobile navigation toggle
+
+$(".nav-trigger").on("click", function() {
+  $("#mobile-nav").slideToggle(600)
 })

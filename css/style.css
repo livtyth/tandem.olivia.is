@@ -687,12 +687,49 @@ footer .right img:hover {
   display: none;
 }
 
+/* Mobile Nav */
+
+#mobile-nav {
+  width: 100%;
+  bottom: 50px;
+  position: fixed;
+  background-color: #FCF7F8;
+}
+
+#mobile-nav a {
+  display: none;
+  text-align: center;
+  padding: 15px 0 15px 0;
+}
+
+.nav-trigger {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 15px 0 15px 0;
+  background-color: #FCF7F8;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 770px) {
 
   footer {
     display: none;
+  }
+
+  .nav-trigger {
+    display: block;
+  }
+
+  #mobile-nav {
+    display: none;
+  }
+
+  #mobile-nav a {
+    display: block;
   }
 
   #top {
