@@ -690,16 +690,19 @@ footer .right img:hover {
 /* Mobile Nav */
 
 #mobile-nav {
+  display: none;
   width: 100%;
-  bottom: 50px;
+  bottom: 100px;
   position: fixed;
   background-color: #FCF7F8;
+  padding: 40px 0 40px 0;
 }
 
 #mobile-nav a {
   display: none;
   text-align: center;
-  padding: 15px 0 15px 0;
+  padding: 20px 0 20px 0;
+  font-size: 24px;
 }
 
 .nav-trigger {
@@ -708,8 +711,12 @@ footer .right img:hover {
   bottom: 0;
   width: 100%;
   text-align: center;
-  padding: 15px 0 15px 0;
   background-color: #FCF7F8;
+  padding: 20px 0 8px 0;
+}
+
+.nav-trigger img {
+  height: 60px;
 }
 
 /* Media Queries */
@@ -807,6 +814,19 @@ footer .right img:hover {
 
 
 @media screen and (max-width: 400px) {
+
+  .nav-trigger img {
+    height: 40px;
+  }
+
+  #mobile-nav {
+      bottom: 62px;
+  }
+
+  #mobile-nav a {
+    font-size: 18px;
+    padding: 15px 0 15px 0;
+  }
 
   #top-mobile .overlay h1 {
     width: 70%;
