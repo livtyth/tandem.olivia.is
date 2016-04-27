@@ -707,6 +707,8 @@ footer .right img:hover {
 
 #mobile-nav a:active {
   background-color: #ffffff;
+  border-top: 1px solid #E8E8E8;
+  border-bottom: 1px solid #E8E8E8;
 }
 
 .nav-trigger {
@@ -728,7 +730,26 @@ footer .right img:hover {
 
 /* Media Queries */
 
+@media screen and (max-width: 1035px) {
+  #intro .headline p {
+    font-size: 20px;
+  }
+
+  #hero {
+      max-width: 700px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+  #intro .headline p {
+    font-size: 18px;
+    padding: 0 10px 0 10px;
+  }
+}
+
 @media screen and (max-width: 770px) {
+
+    /* Mobile Nav Styling */
 
   footer {
     display: none;
@@ -795,9 +816,7 @@ footer .right img:hover {
 
   #top-mobile .bottom-half {
     height: 50%;
-    /*margin-top: 15%;*/
     margin-top: 20px;
-    /*background-color: #FCF7F8;*/
   }
 
   #top-mobile .button {
@@ -816,10 +835,38 @@ footer .right img:hover {
   #top-mobile .startups-button {
     background-color: #F99224;
   }
+
+  /* Content Tablet Styling */
+
+  #logo-bar .left-block img {
+    padding: 20px 0 0 20px;
+    width: 100px;
+  }
+
+  #logo-bar .full-block img {
+    padding: 20px 0 0 20px;
+    width: 100px;
+  }
+
+  .headline p {
+    font-size: 18px;
+  }
+
+  #hero {
+      max-width: 600px;
+      font-size: 18px;
+      padding: 0 10px 0 10px;
+    }
+
 }
 
-
 @media screen and (max-width: 420px) {
+
+  /* Mobile Nav Styling */
+
+  .nav-trigger {
+    padding: 12px 0 0 0;
+  }
 
   .nav-trigger img {
     height: 40px;
@@ -864,5 +911,40 @@ footer .right img:hover {
   #top-mobile .investors-button {
     margin-bottom: 10px;
   }
+
+  /* Content Mobile Styling */
+
+  #logo-bar .left-block img {
+    padding: 10px 0 0 10px;
+    width: 85px;
+  }
+
+  #logo-bar .full-block img {
+    padding: 10px 0 0 10px;
+    width: 85px;
+  }
+
+  #intro {
+    padding: 20px 20px 50px 20px;
+  }
+
+  #intro img {
+    padding-top: 60px;
+  }
+
+  #intro br {
+    display: none;
+  }
+
+  .headline p {
+    font-size: 18px;
+  }
+
+  #hero {
+      max-width: 380px;
+      margin: 20px auto 50px auto;
+      font-size: 18px;
+      padding: 0 20px 0 20px;
+    }
 
 }
