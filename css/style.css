@@ -858,6 +858,39 @@ footer .right img:hover {
       padding: 0 10px 0 10px;
     }
 
+    #intro .investors-intro img, #intro .startups-intro img {
+      width: 60%;
+      margin: auto;
+      display: block;
+    }
+
+    #approach  {
+      padding: 0 30px 0 30px;
+    }
+
+    .shortform {
+      margin-bottom: 5px;
+      height: 300px;
+    }
+
+    #approach .row {
+      margin-bottom: 30px;
+      padding: 0 0 30px 0;
+    }
+
+    #approach img {
+      width: 70px;
+      padding-top: 50px;
+    }
+
+    #approach h4 {
+      padding: 10px 50px 0 50px;
+    }
+
+    #approach .nudge {
+      margin-top: 0;
+    }
+
 }
 
 @media screen and (max-width: 420px) {
@@ -947,4 +980,47 @@ footer .right img:hover {
       padding: 0 20px 0 20px;
     }
 
+    #intro .investors-intro img, #intro .startups-intro img {
+      width: 80%;
+      padding-top: 40px;
+    }
+
+    #approach  {
+      padding: 0;
+    }
+
+    .shortform {
+      margin-bottom: 5px;
+      height: 300px;
+    }
+
+    #approach .row {
+      padding: 0 0 50px 0;
+    }
+
+    #approach img {
+      width: 50px;
+    }
+
+    #approach h4 {
+      padding: 10px 50px 0 50px;
+      font-size: 18px;
+    }
+
+    #approach p {
+      font-size: 16px;
+      padding: 10px 20px 0 20px;
+    }
+
+    #approach .nudge {
+      margin-top: 0;
+    }
+
+}
+
+@media screen and (max-width: 330px) {
+
+  /* Smallest screen styling */
+  .shortform {
+    height: 330px;
 }
