@@ -875,7 +875,7 @@ footer .right img:hover {
 
     #approach .row {
       margin-bottom: 30px;
-      padding: 0 0 30px 0;
+      padding: 20px 0 50px 0;
     }
 
     #approach img {
@@ -884,16 +884,35 @@ footer .right img:hover {
     }
 
     #approach h4 {
-      padding: 10px 50px 0 50px;
+      padding: 10px 30px 0 30px;
     }
 
     #approach .nudge {
       margin-top: 0;
     }
 
+    #key-content {
+      padding: 0 30px 0 30px;
+      margin-top: 50px;
+    }
+
+    #key-content h3 {
+      font-size: 20px;
+    }
+
+    #key-content p {
+      font-size: 18px;
+      line-height: 1.8;
+    }
+
+    #key-content .information {
+      padding: 50px;
+      margin-bottom: 30px;
+    }
+
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 440px) {
 
   /* Mobile Nav Styling */
 
@@ -991,14 +1010,15 @@ footer .right img:hover {
 
     .shortform {
       margin-bottom: 5px;
-      height: 300px;
+      height: 290px;
     }
 
     #approach .row {
-      padding: 0 0 50px 0;
+      padding: 0 0 30px 0;
     }
 
     #approach img {
+      padding-top: 30px;
       width: 50px;
     }
 
@@ -1015,6 +1035,21 @@ footer .right img:hover {
     #approach .nudge {
       margin-top: 0;
     }
+
+    #key-content {
+      padding: 0;
+      margin-top: 40px;
+    }
+
+    #key-content p {
+      font-size: 16px;
+    }
+
+    #key-content .information {
+      padding: 40px 30px 40px 30px;
+      margin-bottom: 30px;
+    }
+
 
 }
 
