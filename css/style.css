@@ -1050,6 +1050,33 @@ footer .right img:hover {
       margin-bottom: 30px;
     }
 
+    #cta {
+      padding-top: 50px;
+      padding-bottom: 150px;
+    }
+
+    #cta .contact-img {
+      height: 80px;
+    }
+
+    #cta h3 {
+      font-size: 20px;
+    }
+
+    #cta p {
+      font-size: 16px;
+    }
+
+    .square-button a {
+      font-size: 18px;
+      padding: 10px 30px 10px 30px;
+      border: 2px solid #ffffff;
+    }
+
+    .square-button img {
+      height: 14px;
+    }
+
 
 }
 
