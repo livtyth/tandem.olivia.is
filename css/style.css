@@ -751,6 +751,23 @@ footer .right img:hover {
       padding: 0 20px 0 20px;
       font-size: 16px;
     }
+
+    .information {
+      padding: 30px;
+    }
+
+    #team p {
+      font-size: 20px;
+    }
+
+    #team h3 {
+      padding-bottom: 20px;
+    }
+
+    .social {
+      padding-top: 30px;
+    }
+
 }
 
 @media screen and (max-width: 800px) {
@@ -969,9 +986,6 @@ footer .right img:hover {
       padding: 30px;
     }
 
-    .social {
-      padding-top: 30px;
-    }
 }
 
 @media screen and (max-width: 440px) {
