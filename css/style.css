@@ -687,6 +687,10 @@ footer .right img:hover {
   display: none;
 }
 
+.mobile-profile {
+  display: none;
+}
+
 /* Mobile Nav */
 
 #mobile-nav {
@@ -901,7 +905,11 @@ footer .right img:hover {
       font-size: 18px;
     }
 
-    #approach .nudge {
+    .grid {
+      margin-top: 0;
+    }
+
+    .nudge {
       margin-top: 0;
     }
 
@@ -924,6 +932,21 @@ footer .right img:hover {
       margin-bottom: 30px;
     }
 
+    .desktop-profile {
+      display: none;
+    }
+
+    .mobile-profile {
+      display: block;
+    }
+
+    #team .row {
+      margin-bottom: 30px;
+    }
+
+    #team {
+      margin-bottom: 30px;
+    }
 }
 
 @media screen and (max-width: 440px) {
