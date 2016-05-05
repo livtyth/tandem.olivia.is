@@ -448,21 +448,21 @@ a:visited {
   background-image: url(../images/profile-1.jpg);
   -webkit-background-size: cover;
   background-size: cover;
-  background-position: center center;
+  background-position: center 20%;
 }
 
 .profile-2 {
   background-image: url(../images/profile-2.jpg);
   -webkit-background-size: cover;
   background-size: cover;
-  background-position: center center;
+  background-position: center 20%;
 }
 
 .profile-3 {
   background-image: url(../images/profile-3.jpg);
   -webkit-background-size: cover;
   background-size: cover;
-  background-position: center center;
+  background-position: center 20%;
 }
 
 
@@ -883,7 +883,7 @@ footer .right img:hover {
 
     .shortform {
       margin-bottom: 5px;
-      height: 300px;
+      height: 400px;
     }
 
     #approach .row {
@@ -946,6 +946,31 @@ footer .right img:hover {
 
     #team {
       margin-bottom: 30px;
+    }
+
+    #team h3 {
+      font-size: 20px;
+      padding-bottom: 20px;
+    }
+
+    #team p {
+      font-size: 18px;
+    }
+
+    .height {
+      height: 390px;
+    }
+
+    .mobile-height {
+      height: 100%;
+    }
+
+    .information {
+      padding: 30px;
+    }
+
+    .social {
+      padding-top: 30px;
     }
 }
 
@@ -1114,6 +1139,30 @@ footer .right img:hover {
       height: 14px;
     }
 
+    #team p {
+      font-size: 16px;
+    }
+
+    .height {
+      height: 300px;
+    }
+
+    .mobile-height {
+      height: 100%;
+    }
+
+    .information {
+      padding: 20px;
+    }
+
+    .linkedin {
+      height: 16px;
+    }
+
+    .twitter {
+      height: 16px;
+    }
+
 
 }
 
@@ -1122,4 +1171,10 @@ footer .right img:hover {
   /* Smallest screen styling */
   .shortform {
     height: 330px;
+  }
+
+  .information {
+    padding: 14px;
+  }
+
 }
