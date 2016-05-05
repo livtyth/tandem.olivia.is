@@ -730,13 +730,22 @@ footer .right img:hover {
 
 /* Media Queries */
 
-@media screen and (max-width: 1035px) {
+@media screen and (max-width: 1060px) {
   #intro .headline p {
     font-size: 20px;
   }
 
   #hero {
       max-width: 700px;
+    }
+
+    #approach h4 {
+      font-size: 16px;
+    }
+
+    #approach p {
+      padding: 0 20px 0 20px;
+      font-size: 16px;
     }
 }
 
@@ -884,7 +893,12 @@ footer .right img:hover {
     }
 
     #approach h4 {
-      padding: 10px 30px 0 30px;
+      padding: 10px 30px 10px 30px;
+      font-size: 20px;
+    }
+
+    #approach p {
+      font-size: 18px;
     }
 
     #approach .nudge {
