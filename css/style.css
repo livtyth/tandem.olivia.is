@@ -353,7 +353,7 @@ a:visited {
 }
 
 .information h3 {
-  font-size: 32px;
+  font-size: 28px;
 }
 
 .investors {
@@ -379,7 +379,7 @@ a:visited {
 }
 
 #cta h3 {
-  font-size: 32px;
+  font-size: 28px;
 }
 
 #cta p {
@@ -388,7 +388,7 @@ a:visited {
 }
 
 .square-button {
-  margin-top: 60px;
+  margin-top: 45px;
 }
 
 .square-button a {
@@ -927,6 +927,10 @@ footer .right img:hover {
     }
 
     .nudge {
+      margin-top: 0;
+    }
+
+    .nudgex2 {
       margin-top: 0;
     }
 
