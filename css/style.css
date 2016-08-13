@@ -304,13 +304,11 @@ a:visited {
   line-height: 1.8;
 }
 
-.blue-gap {
-  border: 2px solid #179FB5;
+.gap {
+  border-left: 2px solid #ffffff;
+  border-right: 2px solid #ffffff;
   }
 
-.orange-gap {
-  border: 2px solid #F99224;
-}
 
 .nudge {
   margin-top: 40px;
@@ -328,8 +326,16 @@ a:visited {
 
 .shortform {
   display: block;
-  height: 43service0px;
+  height: 430px;
   background-color: #FCF7F8;
+}
+
+.blue-block {
+  border-bottom: 10px solid #179FB5;
+}
+
+.orange-block {
+  border-bottom: 10px solid #F99224;
 }
 
 #key-content {
@@ -920,6 +926,7 @@ footer .right img:hover {
 
     #approach p {
       font-size: 18px;
+      padding: 0 50px 0 50px;
     }
 
     .grid {
