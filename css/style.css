@@ -787,6 +787,10 @@ footer .right img:hover {
       padding-top: 30px;
     }
 
+    .card {
+      height: 300px;
+    }
+
 }
 
 @media screen and (max-width: 800px) {
@@ -904,6 +908,10 @@ footer .right img:hover {
     background-color: #F99224;
   }
 
+  .card {
+    height: 200px;
+  }
+
   /* Content Tablet Styling */
 
   #logo-bar .left-block img {
@@ -969,27 +977,37 @@ footer .right img:hover {
       margin-top: 0;
     }
 
-    .nudgex2 {
-      margin-top: 0;
-    }
+
 
     #key-content {
       padding: 0 30px 0 30px;
       margin-top: 50px;
     }
 
-    #key-content h3 {
+    #key-content h3, #services h3 {
       font-size: 20px;
     }
 
-    #key-content p {
+    #key-content p, #services p {
       font-size: 18px;
       line-height: 1.8;
+    }
+
+    .lift {
+      margin-top: 0;
     }
 
     #key-content .information {
       padding: 50px;
       margin-bottom: 30px;
+    }
+
+    /*#services h3 {
+      font-size: 18px;
+    }*/
+
+    #services h4 {
+      font-size: 18px;
     }
 
     .desktop-profile {
@@ -1221,6 +1239,10 @@ footer .right img:hover {
     #contact-details p {
       font-size: 16px;
       padding: 0 20px 0 20px;
+    }
+
+    .card {
+      height: 230px;
     }
 
 }
