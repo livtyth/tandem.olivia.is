@@ -624,7 +624,12 @@ a:visited {
 }
 
 #terms p {
-  font-size: 18px;
+  font-size: 16px;
+  padding-bottom: 10px;
+}
+
+.indent {
+  margin-left: 20px;
 }
 
 #terms h3 {
@@ -632,7 +637,7 @@ a:visited {
 }
 
 #terms h4 {
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 /* End Terms & Conditions*/
 
@@ -911,6 +916,24 @@ footer .right img:hover {
   .card {
     height: 200px;
   }
+
+  #terms .row {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  #terms p, #terms a {
+    font-size: 14px;
+  }
+
+  #terms h4 {
+    font-size: 18px;
+  }
+
+  #terms h3 {
+    font-size: 20px;
+  }
+
 
   /* Content Tablet Styling */
 
