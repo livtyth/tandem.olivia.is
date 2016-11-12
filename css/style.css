@@ -305,12 +305,6 @@ a:visited {
   line-height: 1.8;
 }
 
-.gap {
-  border-left: 2px solid #ffffff;
-  border-right: 2px solid #ffffff;
-  }
-
-
 .nudge {
   margin-top: 40px;
 }
@@ -457,21 +451,21 @@ a:visited {
 }
 
 .profile-1 {
-  background-image: url(../images/profile-1.jpg);
+  background-image: url(../images/john.jpg);
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center 20%;
 }
 
 .profile-2 {
-  background-image: url(../images/profile-2.jpg);
+  background-image: url(../images/alex.jpg);
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center 20%;
 }
 
 .profile-3 {
-  background-image: url(../images/profile-3.jpg);
+  background-image: url(../images/nadia.jpg);
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center 20%;
@@ -557,10 +551,10 @@ a:visited {
 }
 
 .card {
-  display: block;
+  /*display: block;*/
   height: 235px;
   background-color: #FCF7F8;
-  border: 2px solid #ffffff;
+  margin-bottom: 2px;
 }
 
 .lift {
