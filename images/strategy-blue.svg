@@ -1,53 +1,41 @@
-<svg width="66" height="71" viewBox="0 0 66 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="74" height="74" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
 <title>strategy-blue</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="translate(255 0)" figma:type="canvas">
+<g id="Canvas" transform="translate(12 -345)" figma:type="canvas">
 <g id="strategy-blue" style="mix-blend-mode:normal;" figma:type="frame">
-<g id="Ellipse 2" style="mix-blend-mode:normal;" figma:type="ellipse">
-<mask id="mask0_outline_ins">
-<use xlink:href="#path0_fill" fill="white" transform="translate(-203 0)"/>
-</mask>
-<g mask="url(#mask0_outline_ins)">
-<use xlink:href="#path1_stroke_2x" transform="translate(-203 0)" fill="#179FB5" style="mix-blend-mode:normal;"/>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_stroke" transform="translate(-10 347)" fill="#179FB5" style="mix-blend-mode:normal;"/>
 </g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path1_stroke" transform="translate(-1 356)" fill="#179FB5" style="mix-blend-mode:normal;"/>
 </g>
-<g id="Polygon" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path2_stroke" transform="matrix(-0.119635 -0.992818 0.992818 -0.119635 -250.856 69.914)" fill="#179FB5" style="mix-blend-mode:normal;"/>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path2_stroke" transform="translate(8.1 365)" fill="#179FB5" style="mix-blend-mode:normal;"/>
 </g>
-<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path3_stroke" transform="translate(-250.5 8.97978)" fill="#179FB5" style="mix-blend-mode:normal;"/>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path3_stroke" transform="translate(17 374)" fill="#179FB5" style="mix-blend-mode:normal;"/>
 </g>
-<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
-<g id="Line 2" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path4_stroke" transform="matrix(-0.707107 0.707107 -0.707107 -0.707107 -234.478 31)" fill="#179FB5" style="mix-blend-mode:normal;"/>
+<g id="Line" style="mix-blend-mode:normal;" figma:type="line">
+<use xlink:href="#path4_stroke" transform="translate(-10 383)" fill="#179FB5" style="mix-blend-mode:normal;"/>
 </g>
-<g id="Line 2" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path4_stroke" transform="matrix(-0.707107 -0.707107 0.707107 -0.707107 -234.478 39)" fill="#179FB5" style="mix-blend-mode:normal;"/>
+<g id="Line" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path5_stroke" transform="translate(43.5 381.5)" fill="#179FB5" style="mix-blend-mode:normal;"/>
 </g>
+<g id="Line" style="mix-blend-mode:normal;" figma:type="line">
+<use xlink:href="#path4_stroke" transform="matrix(6.12323e-17 -1 1 6.12323e-17 26 374)" fill="#179FB5" style="mix-blend-mode:normal;"/>
 </g>
-<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
-<g id="Line 2" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path4_stroke" transform="matrix(-0.707107 0.707107 -0.707107 -0.707107 -192 56.5)" fill="#179FB5" style="mix-blend-mode:normal;"/>
-</g>
-<g id="Line 2" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path4_stroke" transform="matrix(-0.707107 -0.707107 0.707107 -0.707107 -192 64.5)" fill="#179FB5" style="mix-blend-mode:normal;"/>
-</g>
-</g>
-<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
-<g id="Line 2" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path4_stroke" transform="matrix(-0.707107 0.707107 -0.707107 -0.707107 -197.5 24)" fill="#179FB5" style="mix-blend-mode:normal;"/>
-</g>
-<g id="Line 2" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path4_stroke" transform="matrix(-0.707107 -0.707107 0.707107 -0.707107 -197.5 32)" fill="#179FB5" style="mix-blend-mode:normal;"/>
-</g>
+<g id="Ellipse 3" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path6_fill" transform="translate(-11 347)" fill="#179FB5" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 </g>
 <defs>
-<path id="path0_fill" d="M 14 7C 14 10.866 10.866 14 7 14C 3.13401 14 0 10.866 0 7C 0 3.13401 3.13401 0 7 0C 10.866 0 14 3.13401 14 7Z"/>
-<path id="path1_stroke_2x" d="M 11 7C 11 9.20914 9.20914 11 7 11L 7 17C 12.5228 17 17 12.5228 17 7L 11 7ZM 7 11C 4.79086 11 3 9.20914 3 7L -3 7C -3 12.5228 1.47715 17 7 17L 7 11ZM 3 7C 3 4.79086 4.79086 3 7 3L 7 -3C 1.47715 -3 -3 1.47715 -3 7L 3 7ZM 7 3C 9.20914 3 11 4.79086 11 7L 17 7C 17 1.47715 12.5228 -3 7 -3L 7 3Z"/>
-<path id="path2_stroke" d="M 5.62917 0L 6.877 -0.832414L 5.62917 -2.70298L 4.38133 -0.832414L 5.62917 0ZM 10.0105 9.27084C 10.4702 9.96 11.4016 10.146 12.0907 9.68626C 12.7799 9.22653 12.9659 8.29517 12.5062 7.60601L 10.0105 9.27084ZM -1.24783 7.60601C -1.70756 8.29517 -1.52157 9.22653 -0.832414 9.68626C -0.143254 10.146 0.788104 9.96 1.24783 9.27084L -1.24783 7.60601ZM 4.38133 0.832414L 10.0105 9.27084L 12.5062 7.60601L 6.877 -0.832414L 4.38133 0.832414ZM 1.24783 9.27084L 6.877 0.832414L 4.38133 -0.832414L -1.24783 7.60601L 1.24783 9.27084Z"/>
-<path id="path3_stroke" d="M 29 25.0202C 29 37.1484 24.1415 44.3045 18.2069 48.4257C 12.1866 52.6063 4.91055 53.7599 0.0736815 53.522L -0.0736815 56.5184C 5.25611 56.7805 13.2301 55.5341 19.9181 50.8898C 26.6918 46.1859 32 38.092 32 25.0202L 29 25.0202ZM 48.7364 -1.47665C 44.2497 -0.670741 39.1893 1.13743 35.382 5.10671C 31.5164 9.19989 29 15.4751 29 25.0202L 32 25.0202C 32 16.0089 34.3637 10.5543 37.5631 7.16654C 40.8209 3.65491 45.0105 2.23118 49.2636 1.47665L 48.7364 -1.47665Z"/>
-<path id="path4_stroke" d="M 0 -1.5C -0.828427 -1.5 -1.5 -0.828427 -1.5 0C -1.5 0.828427 -0.828427 1.5 0 1.5L 0 -1.5ZM 11.3137 1.5C 12.1421 1.5 12.8137 0.828427 12.8137 0C 12.8137 -0.828427 12.1421 -1.5 11.3137 -1.5L 11.3137 1.5ZM 3.92349e-06 -1.5C -0.828423 -1.5 -1.5 -0.828432 -1.5 -4.84689e-06C -1.5 0.828422 -0.828423 1.5 3.92349e-06 1.5L 3.92349e-06 -1.5ZM 11.3137 1.5C 12.1421 1.5 12.8137 0.828422 12.8137 -4.84689e-06C 12.8137 -0.828432 12.1421 -1.5 11.3137 -1.5L 11.3137 1.5ZM 0 1.5L 11.3137 1.5L 11.3137 -1.5L 0 -1.5L 0 1.5ZM 3.92349e-06 1.5L 11.3137 1.5L 11.3137 -1.5L 3.92349e-06 -1.5L 3.92349e-06 1.5Z"/>
+<path id="path0_stroke" d="M 12.4735 6.27862C 11.822 6.7903 11.7086 7.73325 12.2203 8.38477C 12.732 9.03629 13.675 9.14966 14.3265 8.63798L 12.4735 6.27862ZM 8.94325 13.9435C 9.46435 13.2995 9.36472 12.355 8.72071 11.8339C 8.0767 11.3128 7.1322 11.4125 6.6111 12.0565L 8.94325 13.9435ZM 14.8198 63.6L 13.9539 64.8249L 14.8198 63.6ZM 55.1802 63.6L 56.0461 64.8249L 55.1802 63.6ZM 35 1.5C 53.5015 1.5 68.5 16.4985 68.5 35L 71.5 35C 71.5 14.8416 55.1584 -1.5 35 -1.5L 35 1.5ZM 14.3265 8.63798C 20.0821 4.09485 27.1144 1.47634 35 1.5L 35 -1.5C 26.5837 -1.47634 18.6157 1.47767 12.4735 6.27862L 14.3265 8.63798ZM 1.5 35C 1.47527 26.9366 4.21356 19.759 8.94325 13.9435L 6.6111 12.0565C 1.61307 18.2631 -1.47527 26.394 -1.5 35L 1.5 35ZM 35 68.5C 27.7296 68.5201 21.2043 66.2952 15.6856 62.3751L 13.9539 64.8249C 19.8413 68.9676 27.2399 71.4799 35 71.5L 35 68.5ZM 15.6856 62.3751C 7.10052 56.3064 1.5 46.3072 1.5 35L -1.5 35C -1.5 47.3223 4.60757 58.218 13.9539 64.8249L 15.6856 62.3751ZM 68.5 35C 68.5 46.3072 62.8995 56.3064 54.3144 62.3751L 56.0461 64.8249C 65.3924 58.218 71.5 47.3223 71.5 35L 68.5 35ZM 54.3144 62.3751C 48.7957 66.2952 42.2704 68.5201 35 68.5L 35 71.5C 42.7601 71.4799 50.1587 68.9676 56.0461 64.8249L 54.3144 62.3751Z"/>
+<path id="path1_stroke" d="M 53.5 26C 53.5 25.1716 52.8284 24.5 52 24.5C 51.1716 24.5 50.5 25.1716 50.5 26L 53.5 26ZM 49.3234 18.476C 49.5776 19.2644 50.4228 19.6976 51.2113 19.4434C 51.9998 19.1893 52.4329 18.3441 52.1788 17.5556L 49.3234 18.476ZM 50.5 26C 50.5 39.531 39.531 50.5 26 50.5L 26 53.5C 41.1878 53.5 53.5 41.1878 53.5 26L 50.5 26ZM 26 50.5C 12.469 50.5 1.5 39.531 1.5 26L -1.5 26C -1.5 41.1878 10.8122 53.5 26 53.5L 26 50.5ZM 1.5 26C 1.5 12.469 12.469 1.5 26 1.5L 26 -1.5C 10.8122 -1.5 -1.5 10.8122 -1.5 26L 1.5 26ZM 26 1.5C 36.904 1.5 46.1479 8.6243 49.3234 18.476L 52.1788 17.5556C 48.6154 6.50079 38.244 -1.5 26 -1.5L 26 1.5Z"/>
+<path id="path2_stroke" d="M 9.78058 30.7199C 9.04782 30.3335 8.14051 30.6142 7.75406 31.347C 7.3676 32.0797 7.64834 32.987 8.3811 33.3735L 9.78058 30.7199ZM 1.88342 27.6673C 2.3616 28.3438 3.29764 28.5045 3.97413 28.0263C 4.65062 27.5482 4.81138 26.6121 4.3332 25.9356L 1.88342 27.6673ZM 32.5 17C 32.5 25.5604 25.5604 32.5 17 32.5L 17 35.5C 27.2173 35.5 35.5 27.2173 35.5 17L 32.5 17ZM 1.5 17C 1.5 8.43959 8.43959 1.5 17 1.5L 17 -1.5C 6.78273 -1.5 -1.5 6.78273 -1.5 17L 1.5 17ZM 17 1.5C 25.5604 1.5 32.5 8.43959 32.5 17L 35.5 17C 35.5 6.78273 27.2173 -1.5 17 -1.5L 17 1.5ZM 17 32.5C 14.3321 32.5123 11.9893 31.8959 9.78058 30.7199L 8.3811 33.3735C 10.9023 34.692 13.9488 35.4877 17 35.5L 17 32.5ZM 4.3332 25.9356C 2.48661 23.35 1.47988 20.4053 1.5 17L -1.5 17C -1.47988 20.8949 -0.185894 24.713 1.88342 27.6673L 4.3332 25.9356Z"/>
+<path id="path3_stroke" d="M 17.5 8C 17.5 7.17157 16.8284 6.5 16 6.5C 15.1716 6.5 14.5 7.17157 14.5 8L 17.5 8ZM 8 1.5C 8.82843 1.5 9.5 0.828427 9.5 0C 9.5 -0.828427 8.82843 -1.5 8 -1.5L 8 1.5ZM 14.5 8C 14.5 11.5899 11.5899 14.5 8 14.5L 8 17.5C 13.2467 17.5 17.5 13.2467 17.5 8L 14.5 8ZM 8 14.5C 4.41015 14.5 1.5 11.5899 1.5 8L -1.5 8C -1.5 13.2467 2.75329 17.5 8 17.5L 8 14.5ZM 1.5 8C 1.5 4.41015 4.41015 1.5 8 1.5L 8 -1.5C 2.75329 -1.5 -1.5 2.75329 -1.5 8L 1.5 8Z"/>
+<path id="path4_stroke" d="M 0 0L 9 0L 9 -3L 0 -3L 0 0Z"/>
+<path id="path5_stroke" d="M 0 -1.5C -0.828427 -1.5 -1.5 -0.828427 -1.5 0C -1.5 0.828427 -0.828427 1.5 0 1.5L 0 -1.5ZM 7 1.5C 7.82843 1.5 8.5 0.828427 8.5 0C 8.5 -0.828427 7.82843 -1.5 7 -1.5L 7 1.5ZM 0 1.5L 7 1.5L 7 -1.5L 0 -1.5L 0 1.5Z"/>
+<path id="path6_fill" d="M 8 4C 8 6.20914 6.20914 8 4 8C 1.79086 8 0 6.20914 0 4C 0 1.79086 1.79086 0 4 0C 6.20914 0 8 1.79086 8 4Z"/>
 </defs>
 </svg>

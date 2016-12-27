@@ -1,0 +1,47 @@
+<svg width="74" height="64" viewBox="0 0 74 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>fundamentals-blue</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-110 -350)" figma:type="canvas">
+<g id="fundamentals-blue" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Rectangle 2" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path0_stroke" transform="translate(112 402)" fill="#179FB5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 2" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path0_stroke" transform="translate(140 402)" fill="#179FB5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 2" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path0_stroke" transform="translate(112 382)" fill="#179FB5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 2" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path0_stroke" transform="translate(140 382)" fill="#179FB5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 2" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path0_stroke" transform="translate(112 362)" fill="#179FB5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 2" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path0_stroke" transform="translate(140 362)" fill="#179FB5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 2" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path0_stroke" transform="translate(126 392)" fill="#179FB5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 2" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path0_stroke" transform="translate(154 392)" fill="#179FB5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 2" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path0_stroke" transform="translate(126 372)" fill="#179FB5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 2" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path0_stroke" transform="translate(154 372)" fill="#179FB5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 2" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path0_stroke" transform="translate(126 352)" fill="#179FB5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 2" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path0_stroke" transform="translate(154 352)" fill="#179FB5" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 0 0L 0 -1.5C -0.828427 -1.5 -1.5 -0.828427 -1.5 3.33067e-16L 0 0ZM 28 0L 29.5 0C 29.5 -0.828427 28.8284 -1.5 28 -1.5L 28 0ZM 28 10L 28 11.5C 28.8284 11.5 29.5 10.8284 29.5 10L 28 10ZM 0 10L -1.5 10C -1.5 10.8284 -0.828427 11.5 3.33067e-16 11.5L 0 10ZM 0 1.5L 28 1.5L 28 -1.5L 0 -1.5L 0 1.5ZM 26.5 0L 26.5 10L 29.5 10L 29.5 0L 26.5 0ZM 28 8.5L 0 8.5L 0 11.5L 28 11.5L 28 8.5ZM 1.5 10L 1.5 0L -1.5 0L -1.5 10L 1.5 10Z"/>
+</defs>
+</svg>

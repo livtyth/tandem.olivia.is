@@ -1,33 +1,38 @@
-<svg width="60" height="73" viewBox="0 0 60 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
-<title>Using people properly</title>
+<svg width="74" height="66" viewBox="0 0 74 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>people-orange</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="translate(-241 2)" figma:type="canvas">
-<g id="Using people properly" style="mix-blend-mode:normal;" figma:type="frame">
-<g id="Vector 2" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path0_stroke" transform="translate(270.5 18)" fill="#F99224" style="mix-blend-mode:normal;"/>
+<g id="Canvas" transform="translate(-233 -251)" figma:type="canvas">
+<g id="people-orange" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Polygon 3" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_stroke" transform="translate(235 299.411)" fill="#F99224" style="mix-blend-mode:normal;"/>
 </g>
-<g id="Vector 3" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path1_stroke" transform="translate(263 69)" fill="#F99224" style="mix-blend-mode:normal;"/>
+<g id="Polygon 3" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_stroke" transform="translate(287 299.411)" fill="#F99224" style="mix-blend-mode:normal;"/>
 </g>
-<g id="Vector 5" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path2_stroke" transform="translate(270.5 36.25)" fill="#F99224" style="mix-blend-mode:normal;"/>
+<g id="Polygon 3" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_stroke" transform="matrix(-1 1.22465e-16 -1.22465e-16 -1 292 312.588)" fill="#F99224" style="mix-blend-mode:normal;"/>
 </g>
-<g id="Vector 5" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path3_stroke" transform="matrix(-1 0 0 1 270.5 25)" fill="#F99224" style="mix-blend-mode:normal;"/>
+<g id="Polygon 3" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_stroke" transform="matrix(-1 1.22465e-16 -1.22465e-16 -1 266 312.588)" fill="#F99224" style="mix-blend-mode:normal;"/>
 </g>
-<g id="Vector 4" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path4_stroke" transform="translate(243 -0.5)" fill="#F99224" style="mix-blend-mode:normal;"/>
+<g id="Polygon 3" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_stroke" transform="translate(261 299.411)" fill="#F99224" style="mix-blend-mode:normal;"/>
 </g>
-<g id="Vector 4" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path4_stroke" transform="matrix(-1 0 0 1 299 -0.5)" fill="#F99224" style="mix-blend-mode:normal;"/>
+<g id="Polygon 3" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_stroke" transform="translate(274 276.206)" fill="#F99224" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Polygon 3" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_stroke" transform="translate(261 253)" fill="#F99224" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Polygon 3" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_stroke" transform="matrix(-1 1.22465e-16 -1.22465e-16 -1 279 288.589)" fill="#F99224" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Polygon 3" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_stroke" transform="translate(248 276.206)" fill="#F99224" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 </g>
 <defs>
-<path id="path0_stroke" d="M 1.5 0C 1.5 -0.828427 0.828427 -1.5 0 -1.5C -0.828427 -1.5 -1.5 -0.828427 -1.5 0L 1.5 0ZM -1.5 51C -1.5 51.8284 -0.828427 52.5 0 52.5C 0.828427 52.5 1.5 51.8284 1.5 51L -1.5 51ZM -1.5 0L -1.5 51L 1.5 51L 1.5 0L -1.5 0Z"/>
-<path id="path1_stroke" d="M 0 -1.5C -0.828427 -1.5 -1.5 -0.828427 -1.5 0C -1.5 0.828427 -0.828427 1.5 0 1.5L 0 -1.5ZM 15.5 1.5C 16.3284 1.5 17 0.828427 17 0C 17 -0.828427 16.3284 -1.5 15.5 -1.5L 15.5 1.5ZM 0 1.5L 15.5 1.5L 15.5 -1.5L 0 -1.5L 0 1.5Z"/>
-<path id="path2_stroke" d="M -0.987757 9.37113C -1.61121 9.91666 -1.67439 10.8643 -1.12887 11.4878C -0.583342 12.1112 0.364302 12.1744 0.987757 11.6289L -0.987757 9.37113ZM 12.9878 1.12887C 13.6112 0.583342 13.6744 -0.364302 13.1289 -0.987757C 12.5833 -1.61121 11.6357 -1.67439 11.0122 -1.12887L 12.9878 1.12887ZM 0.987757 11.6289L 12.9878 1.12887L 11.0122 -1.12887L -0.987757 9.37113L 0.987757 11.6289Z"/>
-<path id="path3_stroke" d="M -1.1579 11.7964C -1.68453 12.4359 -1.59305 13.3813 -0.953561 13.9079C -0.314073 14.4345 0.631258 14.343 1.1579 13.7036L -1.1579 11.7964ZM 11.6579 0.953561C 12.1845 0.314073 12.093 -0.631258 11.4536 -1.1579C 10.8141 -1.68453 9.86874 -1.59305 9.3421 -0.953561L 11.6579 0.953561ZM 1.1579 13.7036L 11.6579 0.953561L 9.3421 -0.953561L -1.1579 11.7964L 1.1579 13.7036Z"/>
-<path id="path4_stroke" d="M 27.4955 61.4126C 28.2757 61.6912 29.134 61.2847 29.4126 60.5045C 29.6912 59.7243 29.2847 58.866 28.5045 58.5874L 27.4955 61.4126ZM 0 50L -1.5 50L -1.5 51.0571L -0.504505 51.4126L 0 50ZM 0 30L -0.518558 28.5925L -1.5 28.9541L -1.5 30L 0 30ZM 9.5 26.5L 10.0186 27.9075L 11 27.5459L 11 26.5L 9.5 26.5ZM 9.5 9.5L 8.81479 8.16565L 8 8.58406L 8 9.5L 9.5 9.5ZM 28.6852 1.33435C 29.4221 0.955921 29.7128 0.0517344 29.3344 -0.685207C 28.9559 -1.42215 28.0517 -1.71278 27.3148 -1.33435L 28.6852 1.33435ZM 28.5045 58.5874L 0.504505 48.5874L -0.504505 51.4126L 27.4955 61.4126L 28.5045 58.5874ZM 1.5 50L 1.5 30L -1.5 30L -1.5 50L 1.5 50ZM 0.518558 31.4075L 10.0186 27.9075L 8.98144 25.0925L -0.518558 28.5925L 0.518558 31.4075ZM 11 26.5L 11 9.5L 8 9.5L 8 26.5L 11 26.5ZM 10.1852 10.8344L 28.6852 1.33435L 27.3148 -1.33435L 8.81479 8.16565L 10.1852 10.8344Z"/>
+<path id="path0_stroke" d="M 9 0L 10.1691 -0.675C 9.92798 -1.09269 9.48231 -1.35 9 -1.35C 8.5177 -1.35 8.07202 -1.09269 7.83087 -0.675L 9 0ZM 18 15.5885L 18 16.9385C 18.4823 16.9385 18.928 16.6811 19.1691 16.2635C 19.4103 15.8458 19.4103 15.3311 19.1691 14.9135L 18 15.5885ZM 5.42001e-06 15.5885L -1.16913 14.9135C -1.41028 15.3311 -1.41028 15.8458 -1.16913 16.2635C -0.927975 16.6811 -0.482303 16.9385 5.42001e-06 16.9385L 5.42001e-06 15.5885ZM 7.83087 0.675L 16.8309 16.2635L 19.1691 14.9135L 10.1691 -0.675L 7.83087 0.675ZM 18 14.2385L 5.42001e-06 14.2385L 5.42001e-06 16.9385L 18 16.9385L 18 14.2385ZM 1.16914 16.2635L 10.1691 0.675L 7.83087 -0.675L -1.16913 14.9135L 1.16914 16.2635Z"/>
 </defs>
 </svg>
